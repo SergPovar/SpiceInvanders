@@ -1,0 +1,79 @@
+/Users/sergejterehov/RiderProjects/спайс инвандерс/спайс инвандерс/bin/Debug/net7.0/спайс инвандерс
+/Users/sergejterehov/RiderProjects/спайс инвандерс/спайс инвандерс/bin/Debug/net7.0/спайс инвандерс.deps.json
+/Users/sergejterehov/RiderProjects/спайс инвандерс/спайс инвандерс/bin/Debug/net7.0/спайс инвандерс.runtimeconfig.json
+/Users/sergejterehov/RiderProjects/спайс инвандерс/спайс инвандерс/bin/Debug/net7.0/спайс инвандерс.dll
+/Users/sergejterehov/RiderProjects/спайс инвандерс/спайс инвандерс/bin/Debug/net7.0/спайс инвандерс.pdb
+/Users/sergejterehov/RiderProjects/спайс инвандерс/спайс инвандерс/bin/Debug/net7.0/SFML.Graphics.dll
+/Users/sergejterehov/RiderProjects/спайс инвандерс/спайс инвандерс/bin/Debug/net7.0/SFML.System.dll
+/Users/sergejterehov/RiderProjects/спайс инвандерс/спайс инвандерс/bin/Debug/net7.0/SFML.Window.dll
+/Users/sergejterehov/RiderProjects/спайс инвандерс/спайс инвандерс/bin/Debug/net7.0/runtimes/alpine-x64/native/libcsfml-audio.so
+/Users/sergejterehov/RiderProjects/спайс инвандерс/спайс инвандерс/bin/Debug/net7.0/runtimes/alpine-x64/native/libcsfml-graphics.so
+/Users/sergejterehov/RiderProjects/спайс инвандерс/спайс инвандерс/bin/Debug/net7.0/runtimes/alpine-x64/native/libcsfml-system.so
+/Users/sergejterehov/RiderProjects/спайс инвандерс/спайс инвандерс/bin/Debug/net7.0/runtimes/alpine-x64/native/libcsfml-window.so
+/Users/sergejterehov/RiderProjects/спайс инвандерс/спайс инвандерс/bin/Debug/net7.0/runtimes/alpine-x64/native/libsfml-audio.so
+/Users/sergejterehov/RiderProjects/спайс инвандерс/спайс инвандерс/bin/Debug/net7.0/runtimes/alpine-x64/native/libsfml-audio.so.2.5
+/Users/sergejterehov/RiderProjects/спайс инвандерс/спайс инвандерс/bin/Debug/net7.0/runtimes/alpine-x64/native/libsfml-audio.so.2.5.1
+/Users/sergejterehov/RiderProjects/спайс инвандерс/спайс инвандерс/bin/Debug/net7.0/runtimes/alpine-x64/native/libsfml-graphics.so
+/Users/sergejterehov/RiderProjects/спайс инвандерс/спайс инвандерс/bin/Debug/net7.0/runtimes/alpine-x64/native/libsfml-graphics.so.2.5
+/Users/sergejterehov/RiderProjects/спайс инвандерс/спайс инвандерс/bin/Debug/net7.0/runtimes/alpine-x64/native/libsfml-graphics.so.2.5.1
+/Users/sergejterehov/RiderProjects/спайс инвандерс/спайс инвандерс/bin/Debug/net7.0/runtimes/alpine-x64/native/libsfml-system.so
+/Users/sergejterehov/RiderProjects/спайс инвандерс/спайс инвандерс/bin/Debug/net7.0/runtimes/alpine-x64/native/libsfml-system.so.2.5
+/Users/sergejterehov/RiderProjects/спайс инвандерс/спайс инвандерс/bin/Debug/net7.0/runtimes/alpine-x64/native/libsfml-system.so.2.5.1
+/Users/sergejterehov/RiderProjects/спайс инвандерс/спайс инвандерс/bin/Debug/net7.0/runtimes/alpine-x64/native/libsfml-window.so
+/Users/sergejterehov/RiderProjects/спайс инвандерс/спайс инвандерс/bin/Debug/net7.0/runtimes/alpine-x64/native/libsfml-window.so.2.5
+/Users/sergejterehov/RiderProjects/спайс инвандерс/спайс инвандерс/bin/Debug/net7.0/runtimes/alpine-x64/native/libsfml-window.so.2.5.1
+/Users/sergejterehov/RiderProjects/спайс инвандерс/спайс инвандерс/bin/Debug/net7.0/runtimes/debian-x64/native/libcsfml-audio.so
+/Users/sergejterehov/RiderProjects/спайс инвандерс/спайс инвандерс/bin/Debug/net7.0/runtimes/debian-x64/native/libcsfml-graphics.so
+/Users/sergejterehov/RiderProjects/спайс инвандерс/спайс инвандерс/bin/Debug/net7.0/runtimes/debian-x64/native/libcsfml-system.so
+/Users/sergejterehov/RiderProjects/спайс инвандерс/спайс инвандерс/bin/Debug/net7.0/runtimes/debian-x64/native/libcsfml-window.so
+/Users/sergejterehov/RiderProjects/спайс инвандерс/спайс инвандерс/bin/Debug/net7.0/runtimes/debian-x64/native/libsfml-audio.so
+/Users/sergejterehov/RiderProjects/спайс инвандерс/спайс инвандерс/bin/Debug/net7.0/runtimes/debian-x64/native/libsfml-audio.so.2.5
+/Users/sergejterehov/RiderProjects/спайс инвандерс/спайс инвандерс/bin/Debug/net7.0/runtimes/debian-x64/native/libsfml-audio.so.2.5.1
+/Users/sergejterehov/RiderProjects/спайс инвандерс/спайс инвандерс/bin/Debug/net7.0/runtimes/debian-x64/native/libsfml-graphics.so
+/Users/sergejterehov/RiderProjects/спайс инвандерс/спайс инвандерс/bin/Debug/net7.0/runtimes/debian-x64/native/libsfml-graphics.so.2.5
+/Users/sergejterehov/RiderProjects/спайс инвандерс/спайс инвандерс/bin/Debug/net7.0/runtimes/debian-x64/native/libsfml-graphics.so.2.5.1
+/Users/sergejterehov/RiderProjects/спайс инвандерс/спайс инвандерс/bin/Debug/net7.0/runtimes/debian-x64/native/libsfml-system.so
+/Users/sergejterehov/RiderProjects/спайс инвандерс/спайс инвандерс/bin/Debug/net7.0/runtimes/debian-x64/native/libsfml-system.so.2.5
+/Users/sergejterehov/RiderProjects/спайс инвандерс/спайс инвандерс/bin/Debug/net7.0/runtimes/debian-x64/native/libsfml-system.so.2.5.1
+/Users/sergejterehov/RiderProjects/спайс инвандерс/спайс инвандерс/bin/Debug/net7.0/runtimes/debian-x64/native/libsfml-window.so
+/Users/sergejterehov/RiderProjects/спайс инвандерс/спайс инвандерс/bin/Debug/net7.0/runtimes/debian-x64/native/libsfml-window.so.2.5
+/Users/sergejterehov/RiderProjects/спайс инвандерс/спайс инвандерс/bin/Debug/net7.0/runtimes/debian-x64/native/libsfml-window.so.2.5.1
+/Users/sergejterehov/RiderProjects/спайс инвандерс/спайс инвандерс/bin/Debug/net7.0/runtimes/fedora-x64/native/libcsfml-audio.so
+/Users/sergejterehov/RiderProjects/спайс инвандерс/спайс инвандерс/bin/Debug/net7.0/runtimes/fedora-x64/native/libcsfml-graphics.so
+/Users/sergejterehov/RiderProjects/спайс инвандерс/спайс инвандерс/bin/Debug/net7.0/runtimes/fedora-x64/native/libcsfml-system.so
+/Users/sergejterehov/RiderProjects/спайс инвандерс/спайс инвандерс/bin/Debug/net7.0/runtimes/fedora-x64/native/libcsfml-window.so
+/Users/sergejterehov/RiderProjects/спайс инвандерс/спайс инвандерс/bin/Debug/net7.0/runtimes/fedora-x64/native/libsfml-audio.so
+/Users/sergejterehov/RiderProjects/спайс инвандерс/спайс инвандерс/bin/Debug/net7.0/runtimes/fedora-x64/native/libsfml-audio.so.2.5
+/Users/sergejterehov/RiderProjects/спайс инвандерс/спайс инвандерс/bin/Debug/net7.0/runtimes/fedora-x64/native/libsfml-audio.so.2.5.1
+/Users/sergejterehov/RiderProjects/спайс инвандерс/спайс инвандерс/bin/Debug/net7.0/runtimes/fedora-x64/native/libsfml-graphics.so
+/Users/sergejterehov/RiderProjects/спайс инвандерс/спайс инвандерс/bin/Debug/net7.0/runtimes/fedora-x64/native/libsfml-graphics.so.2.5
+/Users/sergejterehov/RiderProjects/спайс инвандерс/спайс инвандерс/bin/Debug/net7.0/runtimes/fedora-x64/native/libsfml-graphics.so.2.5.1
+/Users/sergejterehov/RiderProjects/спайс инвандерс/спайс инвандерс/bin/Debug/net7.0/runtimes/fedora-x64/native/libsfml-system.so
+/Users/sergejterehov/RiderProjects/спайс инвандерс/спайс инвандерс/bin/Debug/net7.0/runtimes/fedora-x64/native/libsfml-system.so.2.5
+/Users/sergejterehov/RiderProjects/спайс инвандерс/спайс инвандерс/bin/Debug/net7.0/runtimes/fedora-x64/native/libsfml-system.so.2.5.1
+/Users/sergejterehov/RiderProjects/спайс инвандерс/спайс инвандерс/bin/Debug/net7.0/runtimes/fedora-x64/native/libsfml-window.so
+/Users/sergejterehov/RiderProjects/спайс инвандерс/спайс инвандерс/bin/Debug/net7.0/runtimes/fedora-x64/native/libsfml-window.so.2.5
+/Users/sergejterehov/RiderProjects/спайс инвандерс/спайс инвандерс/bin/Debug/net7.0/runtimes/fedora-x64/native/libsfml-window.so.2.5.1
+/Users/sergejterehov/RiderProjects/спайс инвандерс/спайс инвандерс/bin/Debug/net7.0/runtimes/win-x64/native/csfml-Audio.dll
+/Users/sergejterehov/RiderProjects/спайс инвандерс/спайс инвандерс/bin/Debug/net7.0/runtimes/win-x64/native/csfml-Graphics.dll
+/Users/sergejterehov/RiderProjects/спайс инвандерс/спайс инвандерс/bin/Debug/net7.0/runtimes/win-x64/native/csfml-System.dll
+/Users/sergejterehov/RiderProjects/спайс инвандерс/спайс инвандерс/bin/Debug/net7.0/runtimes/win-x64/native/csfml-Window.dll
+/Users/sergejterehov/RiderProjects/спайс инвандерс/спайс инвандерс/bin/Debug/net7.0/runtimes/win-x64/native/openal32.dll
+/Users/sergejterehov/RiderProjects/спайс инвандерс/спайс инвандерс/bin/Debug/net7.0/runtimes/win-x86/native/csfml-Audio.dll
+/Users/sergejterehov/RiderProjects/спайс инвандерс/спайс инвандерс/bin/Debug/net7.0/runtimes/win-x86/native/csfml-Graphics.dll
+/Users/sergejterehov/RiderProjects/спайс инвандерс/спайс инвандерс/bin/Debug/net7.0/runtimes/win-x86/native/csfml-System.dll
+/Users/sergejterehov/RiderProjects/спайс инвандерс/спайс инвандерс/bin/Debug/net7.0/runtimes/win-x86/native/csfml-Window.dll
+/Users/sergejterehov/RiderProjects/спайс инвандерс/спайс инвандерс/bin/Debug/net7.0/runtimes/win-x86/native/openal32.dll
+/Users/sergejterehov/RiderProjects/спайс инвандерс/спайс инвандерс/obj/Debug/net7.0/спайс инвандерс.csproj.AssemblyReference.cache
+/Users/sergejterehov/RiderProjects/спайс инвандерс/спайс инвандерс/obj/Debug/net7.0/спайс инвандерс.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergejterehov/RiderProjects/спайс инвандерс/спайс инвандерс/obj/Debug/net7.0/спайс инвандерс.AssemblyInfoInputs.cache
+/Users/sergejterehov/RiderProjects/спайс инвандерс/спайс инвандерс/obj/Debug/net7.0/спайс инвандерс.AssemblyInfo.cs
+/Users/sergejterehov/RiderProjects/спайс инвандерс/спайс инвандерс/obj/Debug/net7.0/спайс инвандерс.csproj.CoreCompileInputs.cache
+/Users/sergejterehov/RiderProjects/спайс инвандерс/спайс инвандерс/obj/Debug/net7.0/спайс инвандерс.csproj.CopyComplete
+/Users/sergejterehov/RiderProjects/спайс инвандерс/спайс инвандерс/obj/Debug/net7.0/спайс инвандерс.dll
+/Users/sergejterehov/RiderProjects/спайс инвандерс/спайс инвандерс/obj/Debug/net7.0/refint/спайс инвандерс.dll
+/Users/sergejterehov/RiderProjects/спайс инвандерс/спайс инвандерс/obj/Debug/net7.0/спайс инвандерс.pdb
+/Users/sergejterehov/RiderProjects/спайс инвандерс/спайс инвандерс/obj/Debug/net7.0/спайс инвандерс.genruntimeconfig.cache
+/Users/sergejterehov/RiderProjects/спайс инвандерс/спайс инвандерс/obj/Debug/net7.0/ref/спайс инвандерс.dll
+/Users/sergejterehov/RiderProjects/спайс инвандерс/спайс инвандерс/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/sergejterehov/RiderProjects/спайс инвандерс/спайс инвандерс/bin/Debug/net7.0/GameConfiguration.json

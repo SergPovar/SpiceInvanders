@@ -1,0 +1,33 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net7.0</TargetFramework>
+        <RootNamespace>спайс_инвандерс</RootNamespace>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+      <PackageReference Include="SFML.Graphics" Version="2.5.0" />
+      <PackageReference Include="SFML.System" Version="2.5.0" />
+      <PackageReference Include="SFML.Window" Version="2.5.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="DrawGame" />
+      <Folder Include="Enemy" />
+      <Folder Include="Game" />
+      <Folder Include="JsonFiles" />
+      <Folder Include="ManagerGame" />
+      <Folder Include="Player" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Update="GameConfiguration.json">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </None>
+    </ItemGroup>
+
+</Project>
